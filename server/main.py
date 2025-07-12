@@ -39,6 +39,7 @@ languages = {
     "fr": Language(code="fr", name="French", flag="🇫🇷"),
     "de": Language(code="de", name="German", flag="🇩🇪"),
     "ja": Language(code="ja", name="Japanese", flag="🇯🇵"),
+    "bn": Language(code="bn", name="Bengali", flag="🇧🇩"),
 }
 
 LanguageCode = Enum(
